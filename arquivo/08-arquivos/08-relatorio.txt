@@ -1,2 +1,0 @@
-Primeira linha: atenção a primeira linha foi escritaSegunda linha: Dados salvos pelo PythonPrimeira linha: atenção a primeira linha foi escrita
-Segunda linha: Dados salvos pelo Python
