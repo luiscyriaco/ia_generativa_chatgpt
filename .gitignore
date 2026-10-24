@@ -32,3 +32,6 @@ chroma_db/
 
 # Instaladores executáveis
 *.exe
+
+# Arquivos de apresentação PowerPoint
+*.pptx
